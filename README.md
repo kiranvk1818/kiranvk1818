@@ -62,9 +62,9 @@ Methodologies: Agile, Scrum, Waterfall
 
 ## Let's connect
 
-- LinkedIn: add your short custom URL here
-- Portfolio: add your portfolio link here
-- Email: add your email here
+- LinkedIn: https://www.linkedin.com/in/kiran-v-k-8053772a0/
+- Portfolio: https://kiranvk.netlify.app/
+- Email: kiranjayan18@gmail.com
 
 <p align="center">
   Open to talking about healthcare tech, product management and startups ✨
